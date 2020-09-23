@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "baithuchanh1"
+    }
+  },
+  "defaultProject": "baithuchanh1",
+  "cli": {
+    "analytics": "1ee5e9da-0c4f-4b52-9989-a25c1f6a7088"
+  }
 }
